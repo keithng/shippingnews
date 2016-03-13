@@ -1,2 +1,2 @@
 # shippingnews
-Scrapper for NZ shipping websites
+Scraper for NZ shipping websites
